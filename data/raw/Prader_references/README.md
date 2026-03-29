@@ -1,0 +1,1 @@
+The mean, standard deviation, an empirical centiles of the Prader growth references were published in 1989: Prader, et al. Physical growth of Swiss children from birth to 20 years of age. First Zurich longitudinal study of growth and development. Helv Paediatr Acta Suppl, 1989. 52: p. 1-125.
