@@ -1,0 +1,1 @@
+Heuristic L values for weight and BMI were published by Hermanussen et al. in [2012](https://dx.doi.org/10.1111/j.1651-2227.2011.02415.x.), and in the book Hermanussen. Auxology - Studying Human Growth and Development. E. Schweizerbart'sche Verlagsbuchhandlung (Nägele u. Obermiller), 2013. ISBN: 978-3-510-65278-5.
