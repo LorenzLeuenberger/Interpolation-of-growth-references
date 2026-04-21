@@ -15,4 +15,4 @@ Most official growth references (such as WHO) provide LMS parameters at monthly 
 ## ⚖️ License & Data Attribution
 
 > [!IMPORTANT]
-> **Data Usage & Credits:** The interpolated data provided in this repository is derived from publicly available growth references. The original LMS values remain the intellectual property of their respective creators and are subject to their original licensing terms. In particular, rhe LMS files of the Braegger et al. references are owned by pädiatrie schweiz and subject to their original licensing terms. Please ensure you cite the original sources if using this data in a publication.
+> **Data Usage & Credits:** The interpolated data provided in this repository is derived from publicly available growth references. The original LMS values remain the intellectual property of their respective creators and are subject to their original licensing terms. In particular, the LMS files of the Braegger et al. references are owned by pädiatrie schweiz and subject to their original licensing terms. Please ensure you cite the original sources when using this data in a publication.
